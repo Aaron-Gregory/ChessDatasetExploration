@@ -1,0 +1,5 @@
+
+# the venv with the dependencies for the scripts
+data_env/
+
+**/__pycache__/
